@@ -1,0 +1,1 @@
+cp .stack-work/install/x86_64-linux-tinfo6/lts-14.27/8.6.5/bin/solidity-exe /mnt/c/Users/dm656/stest

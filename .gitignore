@@ -1,0 +1,8 @@
+output
+*~
+\#*
+.#*
+solidity-evaluator/src
+solidity-evaluator/app
+solidity-evaluator/bin
+document/auto
